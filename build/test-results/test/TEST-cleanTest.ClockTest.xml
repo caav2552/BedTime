@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.ClockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T21:34:34" hostname="DESKTOP-DMQDE3P" time="19.523">
+  <properties/>
+  <testcase name="testClock()" classname="cleanTest.ClockTest" time="19.523"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 16, 2021 6:34:44 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
